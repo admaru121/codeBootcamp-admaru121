@@ -1,0 +1,47 @@
+p {
+  color: red;
+}
+header {
+  background-color: orange;
+}
+.theone{
+  color: green;
+  text-transform: uppercase;
+}
+ul li {
+  display:grid;
+}
+.theoldone {
+  color: white;
+  font-size: 20;
+  font-weight: bold;
+}
+img {
+  float: left; width: 40%; margin-right: 10%; margin-bottom: 0.5em;
+}
+main {
+  background-color: pink;
+  border-style: dashed;
+}
+h1 {
+  text-align: center;
+}
+.box {
+  display: none;
+}
+.test1 {
+  background-color: turquoise;
+  border-style: double;
+  color: white;
+}
+
+.list-container {
+    display: flex;
+    padding-bottom: 1em;
+}
+
+.list-movies, .list-countries {
+    color: white;
+    width: 50%;
+    padding: 30px 60px;
+}
